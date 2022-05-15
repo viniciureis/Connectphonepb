@@ -1,0 +1,1 @@
+document.querySelector("#__next > main > div > article > section:nth-child(2) > div > div > div.sc-jOhDuK.fkdTQf > svg")

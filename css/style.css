@@ -1,0 +1,79 @@
+body{
+  margin: 0px;
+  padding: 0px;
+background-color: #7200f5 ;}
+  header{background-color: black;color: black;
+  font-size: 20px;
+  
+}
+
+img{width: 200px;
+  height: 180px;
+    margin: 0px;}
+  h1{text-align: center;}
+  
+    main{
+  padding: 0% 20px 0px;
+ }
+ footer{background-color: aqua;
+font-size: 25px;text-align: center;
+margin-top: 15px;
+padding: 20px;}
+table,td,th,tr{width: 500px;
+border: 1px solid red;}
+
+
+#login {
+  background:linear-gradient(120deg, #4c79d3 44.9%, #450ae6 45%)no-repeat fixed
+}
+  #app{
+    background:linear-gradient(120deg,#ffffff 44.9%, #4c79d3 45%)no-repeat fixed
+  }
+  header{border-bottom: 1px solid#e90000;    
+  padding: 5px;
+background-color: #ffffff;}
+
+.tex-login{
+  color:#ffffff;
+  font-size: 100px;
+  font-weight: 900;
+}
+.game
+{position: absolute;
+bottom: 100px;}
+
+.button-login{border-radius: 10px;
+background-color: purple;
+color: #ffffff;
+width: 50%;
+margin: 0 25%;}
+.button-login:hover{background:#4c79d3 ; color: #ffffff;}
+
+.button-default:hover{background:#4c79d3 ; color: #ffffff;}
+
+
+.link-default{color: #4c79d3;
+cursor: pointer;}
+.link-default:hover{color: purple ;}
+
+.color-primaro{ color:#4c79d3 ;}
+
+.color-secundary{ color:purple;}
+
+
+.icon-detail{font-size: 50px;
+margin-right: 10px;
+vertical-align: middle
+;}
+.info{background: #ffffff;
+border-radius: 20px 20px 0px 0px;
+padding-top: 20px 0px 0px;}
+
+.button-default{border-radius: 10px;
+background-color: purple;
+color: #ffffff;font-size: 12px;text-align: center;
+width: 19%;
+margin-top: 20px;
+padding: 23px;}
+
+
